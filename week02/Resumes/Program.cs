@@ -25,7 +25,7 @@ class Program
         resume._name = "Beta Test";
 
         resume._jobs.Add(job1);
-        resume._jobs.Add(job2);
+        resume._jobs.Add(job2); 
 
         resume.Display();
 
